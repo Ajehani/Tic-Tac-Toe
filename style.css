@@ -1,5 +1,5 @@
 html{
-    font-family: sans-serif;
+    font-family:sans-serif;
     background-color: rgb(207, 207, 233);
 }
 body{
@@ -15,15 +15,17 @@ h1{
     text-align: center;
     color:rgb(211, 19, 228);
 }
+
 #select{
     display: flex;
     justify-content: center;
     margin:1rem 0;
+    color:rgb(201, 9, 218);
     
 }
 #player1,#player2{
     cursor:pointer;
-    color:rgb(211, 19, 228);
+    color:rgb(234, 5, 255);
     background-color: rgba(130, 17, 235, 0.166);
     margin:0 0 0 10px;
     width:3rem;
